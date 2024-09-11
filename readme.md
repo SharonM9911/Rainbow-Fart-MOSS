@@ -2,7 +2,7 @@
 
 [VSCode Rainbow-Fart](https://github.com/saekiraku/vscode-rainbow-fart) MOSS语音包，目前仅支持 C关键词（主要是我用C嘿嘿）。
 
-[视频演示(bilibili)]()
+[视频演示(bilibili)](https://www.bilibili.com/video/BV1Gx4Be9EFs/)
 
 ## 使用方法
 
