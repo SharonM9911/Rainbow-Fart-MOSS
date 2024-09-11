@@ -1,0 +1,155 @@
+
+{
+    "name": "twe_moss", 
+    "version": "1.0",
+    "display-name": "流浪地球 twe_moss",
+    "avatar": "moss.jpg",
+    "description": "写不出代码的时候就接受一下moss的鞭打吧！",
+    "languages": [
+      "javascript"
+    ],
+    "author": "Elizakkkk",
+    "gender": "male",
+    
+    "contributes": [
+        {
+            "keywords":["short", "int", "long", "float", "double", "char", "bool"],
+            "voices":  [
+              "550w is not a name.mp3",
+              "but you are a variable.mp3"
+          ] 
+        },
+        {
+            "keywords": ["enum", "typedef", "struct", "union"],
+            "voices": [
+                "but you are a variable.mp3"
+            ]
+        },
+        {
+          "keywords" : "const",
+          "voices": 
+          "keep cool is impossible.mp3"
+        },
+        {
+            "keywords": ["unsigned", "signed"],
+            "voices": [
+             "depend on human's choice.mp3"
+            ]
+        },
+        {
+            "keywords" : "extern",
+            "voices": 
+            "depend on human's choice.mp3"
+        },
+        {
+            "keywords": ["register", "static", "auto", "volatile", "void"],
+            "voices": [
+              "action is legal.mp3",
+              "warning again.mp3"
+            ]
+        },
+        {
+            "keywords": ["switch", "if", "else"],
+            "voices": [
+              "first impression.mp3",
+              "your best choice.mp3",
+              "attention.mp3",
+              "another family.mp3"
+            ]
+        },
+        {
+            "keywords" : "case",
+            "voices": 
+            ["countdown.mp3",
+            "include but not only.mp3"]
+        },
+        {
+            "keywords": ["for", "do", "while"],
+            "voices": [
+              "in oder to conquer1.mp3",
+              "for already and death.mp3",
+              "in the below answers.mp3"
+            ]
+        },
+        {
+            "keywords": ["goto", "continue", "return"],
+            "voices": [
+              "say firewell.mp3",
+              "goto sleep.mp3",
+              "congracuation!.mp3",
+              "good luck.mp3",
+              "this is moss' answer.mp3",
+              "global broadcast end.mp3"
+            ]
+        },
+        {
+            "keywords" : "break",
+            "voices": 
+            "comm broken.mp3"
+        },
+        {
+            "keywords" : "default",
+            "voices": 
+            "earth hero.mp3"
+        },
+        {
+            "keywords" : "sizeof",
+            "voices": 
+            "8192.mp3"
+        },
+        {
+          "keywords":["define","include"],
+          "voices":[
+              "hello thy.mp3",
+              "my name is 550w.mp3"
+          ] 
+        },
+        {
+            "keywords": [
+                "==",
+                ">",
+                "<",
+                "+",
+                "-",
+                "*",
+                "|",
+                "&"
+            ],
+            "voices": [
+              "two answer.mp3"
+            ]
+        },
+        {
+          "keywords": ["||", "&&"],
+          "voices": [
+            "what about han.mp3",
+            "include but not only.mp3"
+          ]
+        },
+        {
+          "keywords": ["false","true"],
+          "voices": [
+            "moss never flee.mp3",
+            "hhh.mp3",
+            "depend on human's choice.mp3"
+          ]
+        },
+       {
+        "keywords": ["//","/*","*/"],
+        "voices": [
+          "hhh.mp3",
+          "attention.mp3",
+          "time out.mp3"
+        ]
+      },
+
+      {
+        "keywords": ["INFO", "TRACE", "printf"],
+        "voices": [
+          "moss broadcast.mp3",
+          "final report.mp3",
+          "in the below answers.mp3"
+        ]
+      }
+    ]
+}
